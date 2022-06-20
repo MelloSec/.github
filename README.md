@@ -1,5 +1,5 @@
 # .github
 
-# MelloSec - Can't all be Doom and Gloom, but we can try
+# MelloSec - Can't all be Doom and Gloom
 
-## Infrastructure-as-Code, Cloud Security, DevOps tooling and malware, malware, malware
+## Infrastructure-as-Code, Cloud Security and malware, malware, malware
