@@ -7,5 +7,5 @@
 
 
 
-### Infrastructure-as-Code, Cloud Security, DevOps tooling and malware, malware, malware
+### Infrastructure-as-Code, Cloud Security, and malware, malware, malware
 
