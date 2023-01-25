@@ -6,6 +6,3 @@
 
 
 
-
-### Infrastructure-as-Code, Cloud Security, and malware, malware, malware
-
